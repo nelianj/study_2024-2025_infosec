@@ -8,7 +8,7 @@ author:
 institute:
   - Российский университет дружбы народов, Москва, Россия
 date: 18 февраля 2025
-
+Структура научной презентации
 ## i18n babel
 babel-lang: russian
 babel-otherlangs: english
@@ -177,7 +177,7 @@ header-includes:
 Объем доступной оперативной памяти (Memory available)(рис.21)
 
 ![оперативной памяти](image/Untitled28.png){#fig:001 width=70%}
-
+Структура научной презентации
 ## Выполнение дополнительного задания
 
 Тип обнаруженного гипервизора (Hypervisor detected)(рис.22)
